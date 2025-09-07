@@ -3,18 +3,36 @@
 ---
 
 # Run List 
-- 
-## **The Green Run 2025** 
-*Vermosa, Cavite*
+
+## Complete Run
+
+### Gamers Run Club - South (10Km Run) #CommunityRun 
+- [[Vermosa, Cavite]]
+- August 31, 2025
+- *Gear*
+	- Adidas Adizero SL2 
+	- Adidas Adizero Split Shorts
+	- [Gamers Run Club Singlet Rosfyre](https://planbnck.gg/products/singlet-rosefyre?variant=47457189331166)
+
+<center><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15642410874" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script></center>
+
+### The Green Run 2025 #FunRun
+- [[Vermosa, Cavite]]
+- June 29, 2025
 - *Gear*
 	- Merrell Nova-3
 	- Samsung Galaxy Watch7
 - [Results](https://ayalaland.myruntime.com/analytics/the-green-run-2025#/?category=undefined&bibNumber=5025)
-https://ayalaland.myruntime.com/analytics/the-green-run-2025#/?category=undefined&bibNumber=5025
 
-<center><div class="iframe-container iframe-container-for-wxh-500x350 strava-embed-placeholder" style="-webkit-overflow-scrolling: touch; overflow: auto;" data-embed-type="activity" data-embed-id="14946444880" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js">
+## Upcoming Runs
+### Yakult 
+![[Life Updates/Pasted image 20250908012041.png]]
+- SM MOA Complex, Pasay
+- October 12, 2025
+- [Registration](https://registration.yakult10miler.com/register)
 
- <iframe src="https://strava-embeds.com/embed.js"> <p style="font-size: 110%;"><em><strong>IFRAME: </strong> There is iframe content being displayed here but your browser version does not support iframes.</em> Please update your browser to its most recent version and try again.</p> 
- </iframe>
+
+
+<center><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14946444880" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script></center>
 
 
