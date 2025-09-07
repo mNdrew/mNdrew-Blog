@@ -2,15 +2,15 @@
 publish: false
 draft: true
 comments: false
-title:
+permalink: 
+title: 
 description:
-created: {{date}}
+created: 
 modified:
+published: 
 cssclasses:
 tags:
 date:
-date_created:
-permalink:
+date_created: 
 aliases:
 ---
-- 

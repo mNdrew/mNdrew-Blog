@@ -31,31 +31,31 @@ const defaultOptions: GraphOptions = {
     drag: true,
     zoom: true,
     depth: 1,
-    scale: 1.1,
-    repelForce: 0.5,
-    centerForce: 0.3,
+    scale: 2,
+    repelForce: 0.1,
+    centerForce: 0.1,
     linkDistance: 30,
-    fontSize: 0.6,
+    fontSize: 1.2, // Increased font size for visibility
     opacityScale: 1,
     showTags: true,
     removeTags: [],
-    focusOnHover: false,
+    focusOnHover: true, // Enable focus on hover for high visibility
     enableRadial: false,
   },
   globalGraph: {
     drag: true,
     zoom: true,
     depth: -1,
-    scale: 0.9,
-    repelForce: 0.5,
-    centerForce: 0.2,
-    linkDistance: 30,
-    fontSize: 0.6,
+    scale: 2,
+    repelForce: 0.1,
+    centerForce: 0.1,
+    linkDistance: 10,
+    fontSize: 1.2, // Increased font size for visibility
     opacityScale: 1,
     showTags: true,
     removeTags: [],
-    focusOnHover: true,
-    enableRadial: true,
+    focusOnHover: true, // Enable focus on hover for high visibility
+    enableRadial: false,
   },
 }
 

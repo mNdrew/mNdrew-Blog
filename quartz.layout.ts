@@ -71,10 +71,10 @@ export const defaultContentPageLayout: PageLayout = {
         depth: 1, // how many hops of notes to display
         scale: 4, // default view scale
         repelForce: 0.5, // how much nodes should repel each other
-        centerForce: 1, // how much force to use when trying to center the nodes
+        centerForce: 0.0, // how much force to use when trying to center the nodes
         linkDistance: 10, // how long should the links be by default?
-        fontSize: 0.8, // what size should the node labels be?
-        opacityScale: 1, // how quickly do we fade out the labels when zooming out?
+        fontSize: 1, // what size should the node labels be?
+        opacityScale: 0.8, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
         enableRadial: false, // whether to constrain the graph, similar to Obsidian
@@ -83,12 +83,12 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true,
         zoom: true,
         depth: -1,
-        scale: 3,
-        repelForce: 0.5,
-        centerForce: 0.3,
+        scale: 8,
+        repelForce: 15,
+        centerForce: 0.69,
         linkDistance: 30,
-        fontSize: 0.6,
-        opacityScale: 1,
+        fontSize: 4,
+        opacityScale: -2.0,
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
         enableRadial: true, // whether to constrain the graph, similar to Obsidian

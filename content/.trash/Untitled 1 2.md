@@ -1,10 +1,11 @@
 ---
-publish: false
 draft: true
+publish: false
+published:
+description:
 comments: false
 title:
-description:
-created: {{date}}
+created:
 modified:
 cssclasses:
 tags:
@@ -13,4 +14,3 @@ date_created:
 permalink:
 aliases:
 ---
-- 

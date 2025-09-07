@@ -22,9 +22,9 @@ Thank you!
 
 # Current Drafts
 
-| Title                            | Area          | Progress        |
-| -------------------------------- | ------------- | --------------- |
-| [[Running Area\|My Running Era]] | #Life #Health | #WorkInProgress |
+| Title                           | Area         | Progress        |
+| ------------------------------- | ------------ | --------------- |
+| [[Running Era\|My Running Era]] | Life Updates | #WorkInProgress |
 
 # Current Requests
 | Title                | Area | Progress |

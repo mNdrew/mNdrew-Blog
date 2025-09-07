@@ -1,6 +1,6 @@
 ---
 publish: true
-permalink:
+permalink: Welcome
 aliases:
   - Homepage
 title: 🏠 mNdrew DevLog
@@ -21,6 +21,11 @@ comments: false
 
 
 # 🌱 Why Change?
-The previous version of my [Blog](https://mndrewdevlog.web.app/blog/) does not really allow me to write using Obsidian (my main note taking application). This increases the friction to write and update posts. 
+The previous version of my [Blog](https://mndrewdevlog.web.app/blog/) does not really allow me to write using Obsidian (my main note taking application). This increases the friction to write and update posts hence the [[Transition to Quartz|transition to Quartz]]. 
+
+Quartz allows me to utilize Obsidian in such a way that once the setup is complete. I just need to write, review, and publish my notes as posts. Albeit with the caveat that I need access to my Computer (at least for now 😉). 
+
+
+
 
 

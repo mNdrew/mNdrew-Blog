@@ -4,7 +4,7 @@ draft: true
 comments: false
 title:
 description:
-created: {{date}}
+created: 2025-09-07
 modified:
 cssclasses:
 tags:
@@ -13,4 +13,3 @@ date_created:
 permalink:
 aliases:
 ---
-- 
