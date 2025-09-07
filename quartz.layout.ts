@@ -5,7 +5,30 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+  Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'mNdrew/quartz',
+      // from data-repo-id
+      repoId: 'MDEwOlJlcG9zaXRvcnkzODcyMTMyMDg',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOFxRnmM4B-Xg6',
+      // from data-lang
+      lang: 'en',
+      themeUrl: "https://mndrew-blog.vercel.app/static/giscus",
+      // filename for light theme .css file
+      // defaults to 'light'
+      lightTheme: 'light', 
+      // filename for dark theme .css file
+      // defaults to 'dark'
+      darkTheme: 'catppuccin-macchiato',
+    }
+  }),
+],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",

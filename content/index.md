@@ -10,9 +10,10 @@ aliases:
   - Homepage
 cssclasses:
 publish: true
+comments: false
 ---
 
-Hi! Welcome to the mNdrew ~~Devlog~~ Blog. 
+👋 Hi! Welcome to the mNdrew ~~Devlog~~ Blog. 
 
 
-![[1#Why Change]]
+![[1#🌱 Why Change]]
