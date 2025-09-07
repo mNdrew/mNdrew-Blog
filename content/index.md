@@ -15,4 +15,4 @@ publish: true
 Hi! Welcome to the mNdrew ~~Devlog~~ Blog. 
 
 
-![[New Blog with Quartz#Why Change]]
+![[1#Why Change]]
