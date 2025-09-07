@@ -1,5 +1,19 @@
 ---
-{"publish":true,"permalink":null,"aliases":["Homepage"],"title":"mNdrew DevLog","created":"2025-09-07","modified":"2025-09-07T12:39:03.360+08:00","published":"2025-09-07","cssclasses":null,"description":null,"tags":null,"draft":false,"date":"2025-09-07","date_created":"2025-09-07","comments":false}
+publish: true
+permalink:
+aliases:
+  - Homepage
+title: 🏠 mNdrew DevLog
+created: 2025-09-07
+modified: 2025-09-07T12:39:03.360+08:00
+published: 2025-09-07
+cssclasses:
+description:
+tags:
+draft: false
+date: 2025-09-07
+date_created: 2025-09-07
+comments: false
 ---
 
 

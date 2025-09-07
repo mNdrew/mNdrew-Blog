@@ -34,3 +34,7 @@ The previous version of my [Blog](https://mndrewdevlog.web.app/blog/) does not r
 ![[Current Workflow.svg]]
 
 # 🤔 What to expect? 
+
+From [DevLog](https://mndrewdevlog.web.app/blog/) to just a regular Blog, I want this space to be my outlet to document and share my knowledge and insights to others. From guides, reviews, or general life updates. 
+
+Having this also helps me 

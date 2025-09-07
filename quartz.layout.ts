@@ -1,4 +1,5 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
+import { Analytics } from "@vercel/analytics/next"
 import * as Component from "./quartz/components"
 
 // components shared across all pages
@@ -25,9 +26,10 @@ export const sharedPageComponents: SharedLayout = {
       lightTheme: 'light', 
       // filename for dark theme .css file
       // defaults to 'dark'
-      darkTheme: 'dark'
+      darkTheme: 'dark' 
     }
   }),
+  Analytics,
 ],
   footer: Component.Footer({
     links: {
