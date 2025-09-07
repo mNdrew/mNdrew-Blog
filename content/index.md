@@ -1,6 +1,18 @@
 ---
-title: Welcome to Quartz
+title: mNdrew DevLog
+description:
+permalink:
+tags:
+draft: false
+date: 2025-09-07
+date_created: 2025-09-07
+aliases:
+  - Homepage
+cssclasses:
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi! Welcome to the DevLog. 
+
+
+# Why Transition? 
+- 
