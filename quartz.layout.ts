@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     provider: 'giscus',
     options: {
       // from data-repo
-      repo: 'mNdrew/quartz',
+      repo: 'mNdrew/mNdrew-blog',
       // from data-repo-id
       repoId: 'MDEwOlJlcG9zaXRvcnkzODcyMTMyMDg',
       // from data-category
