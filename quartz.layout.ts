@@ -10,13 +10,13 @@ export const sharedPageComponents: SharedLayout = {
     provider: 'giscus',
     options: {
       // from data-repo
-      repo: 'mNdrew/mNdrew-blog',
+      repo: 'mNdrew/mNdrew-Blog',
       // from data-repo-id
-      repoId: 'MDEwOlJlcG9zaXRvcnkzODcyMTMyMDg',
+      repoId: 'R_kgDOPrLzAg',
       // from data-category
       category: 'Announcements',
       // from data-category-id
-      categoryId: 'DIC_kwDOFxRnmM4B-Xg6',
+      categoryId: 'DIC_kwDOPrLzAs4CvFKr',
       // from data-lang
       lang: 'en',
       themeUrl: "https://mndrew-blog.vercel.app/static/giscus",
@@ -25,7 +25,7 @@ export const sharedPageComponents: SharedLayout = {
       lightTheme: 'light', 
       // filename for dark theme .css file
       // defaults to 'dark'
-      darkTheme: 'catppuccin-macchiato',
+      darkTheme: 'dark'
     }
   }),
 ],
