@@ -24,15 +24,16 @@
 	- Samsung Galaxy Watch7
 - [Results](https://ayalaland.myruntime.com/analytics/the-green-run-2025#/?category=undefined&bibNumber=5025)
 
+
+<center><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14946444880" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script></center>
+
+
+
+
 ## Upcoming Runs
 ### Yakult 
 ![[Life Updates/Pasted image 20250908012041.png]]
 - SM MOA Complex, Pasay
 - October 12, 2025
 - [Registration](https://registration.yakult10miler.com/register)
-
-
-
-<center><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14946444880" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script></center>
-
 
