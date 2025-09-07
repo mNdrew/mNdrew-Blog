@@ -4,6 +4,8 @@ on:
     workflows: ["Build Preview Deployment"]
     types:
       - completed
+env:
+  THEME_NAME: zario
 
 permissions:
   actions: read
@@ -14,9 +16,13 @@ permissions:
 jobs:
   deploy-preview:
     if: ${{ github.repository == 'jackyzha0/quartz' && github.event.workflow_run.conclusion == 'success' }}
+    
     runs-on: ubuntu-latest
     name: Deploy Preview to Cloudflare Pages
     steps:
+      - name: Fetch Theme
+        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
+
       - name: Download build artifact
         uses: actions/download-artifact@v5
         id: preview-build-artifact
