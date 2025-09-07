@@ -8,4 +8,5 @@ date:
 date_created:
 aliases:
 cssclasses:
+publish:
 ---
