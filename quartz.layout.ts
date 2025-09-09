@@ -28,8 +28,13 @@ export const sharedPageComponents: SharedLayout = {
       darkTheme: 'dark'
     }
   }),
+  Component.RecentNotes({
+    title: "Recent Notes",
+  }),
+  Component.VercelAnalytics(),
 ],
-  footer: Component.Footer({
+  footer:
+  Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",

@@ -16,7 +16,7 @@ date: 2025-09-08 00:53:59
 date_created:
 aliases:
 ---
-# Why Run? 
+2025-09-09# Why Run? 
 Running allow me to be active despite having a busy schedule juggling responsibilities. It is one of the ways I interact with people in the community and is one of the outlets that I have to relieve stress and touch grass (quite literally when you fall 😆)
 
 # 🎯 My Goals
