@@ -1,5 +1,20 @@
 ---
-{"publish":true,"permalink":null,"title":"🏃‍♂️ Running Era","created":"2025-09-07","modified":"2025-09-08 00:54:08","published":null,"tags":["#Health","#Hobby"],"cssclasses":null,"draft":false,"comments":false,"description":null,"date":"2025-09-08 00:53:59","date_created":null,"aliases":null}
+publish: true
+permalink:
+title: 🏃‍♂️ Running Era
+created: 2025-09-07
+modified: 2025-09-09T21:44:32+08:00
+published:
+tags:
+  - "#Health"
+  - "#Hobby"
+cssclasses:
+draft: false
+comments: false
+description:
+date: 2025-09-08 00:53:59
+date_created:
+aliases:
 ---
 # Why Run? 
 Running allow me to be active despite having a busy schedule juggling responsibilities. It is one of the ways I interact with people in the community and is one of the outlets that I have to relieve stress and touch grass (quite literally when you fall 😆)
