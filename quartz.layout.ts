@@ -30,8 +30,8 @@ export const sharedPageComponents: SharedLayout = {
   }),
   Component.RecentNotes({
     title: "Recent Notes",
-  }),
-  Component.VercelAnalytics(),
+  })
+  // Component.VercelAnalytics(),
 ],
   footer:
   Component.Footer({
