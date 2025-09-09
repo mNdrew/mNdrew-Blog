@@ -1,22 +1,8 @@
 ---
-publish: true
-draft: false
-comments: false
-permalink:
-title: 🏃‍♂️ Running Era
-description:
-created: 2025-09-07
-modified: 2025-09-08 00:54:08
-published:
-cssclasses:
-tags:
-  - "#Health"
-  - "#Hobby"
-date: 2025-09-08 00:53:59
-date_created:
-aliases:
+{"publish":true,"permalink":null,"title":"🏃‍♂️ Running Era","created":"2025-09-07","modified":"2025-09-08 00:54:08","published":null,"tags":["#Health","#Hobby"],"cssclasses":null,"draft":false,"comments":false,"description":null,"date":"2025-09-08 00:53:59","date_created":null,"aliases":null}
 ---
-# Why Run? 
+
+2025-09-09# Why Run? 
 Running allow me to be active despite having a busy schedule juggling responsibilities. It is one of the ways I interact with people in the community and is one of the outlets that I have to relieve stress and touch grass (quite literally when you fall 😆)
 
 # 🎯 My Goals
@@ -62,7 +48,7 @@ Running allow me to be active despite having a busy schedule juggling responsibi
 ---
 ## Upcoming Runs
 ### Yakult 
-![[Pasted image 20250908012041.png]]
+![[Attachments/Pasted image 20250908012041.png]]
 - SM MOA Complex, Pasay
 - October 12, 2025
 - [Registration](https://registration.yakult10miler.com/register)
