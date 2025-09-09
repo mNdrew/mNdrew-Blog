@@ -5,14 +5,13 @@ comments: false
 title: Android Gaming
 description: I really love how the advancements in emulation gave me the opportunity to play games I once just wish to play from retro titles to even recent releases.
 created: 2025-09-08
-modified: 2025-09-09T21:14:04+08:00
+modified: 2025-09-09T21:44:47+08:00
 cssclasses:
 tags:
 date:
 date_created:
 permalink:
 aliases:
-
 ---
 
 I really love how the advancements in emulation gave me the opportunity to play games I once just wish to play from retro titles to even recent releases. 
