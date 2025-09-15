@@ -3,6 +3,7 @@
 ---
 
 
+
 # 🌱 Why Change?
 The previous version of my [Blog](https://mndrewdevlog.web.app/blog/) does not really allow me to write using Obsidian (my main note taking application). This increases the friction to write and update posts. 
 
