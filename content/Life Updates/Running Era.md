@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":null,"title":"🏃‍♂️ Running Era","created":"2025-09-07","modified":"2025-09-15T14:13:45+08:00","published":null,"tags":["#Health","#Hobby"],"cssclasses":null,"draft":false,"comments":false,"description":null,"date":"2025-09-08 00:53:59","date_created":null,"aliases":null}
+{"publish":true,"permalink":null,"title":"🏃‍♂️ Running Era","created":"2025-09-07","modified":"2025-09-15T20:52:48+08:00","published":null,"tags":["#Health","#Hobby","Running"],"cssclasses":null,"draft":false,"comments":false,"description":null,"date":"2025-09-08 00:53:59","date_created":null,"aliases":null}
 ---
 
 # Why Run? 
@@ -22,13 +22,27 @@ Running allow me to be active despite having a busy schedule juggling responsibi
 # Run List 
 
 ## Complete Runs
+### 33rd Yakult 10-Miler (10 Km) 
+![[Attachments/Yakult 33rd 10 Miler.png]]
+- SM MOA Complex, Pasay
+- October 12, 2025
 
+> [!Notes] Gear
+> - Adidas Adizero SL2 
+> - Adidas Adizero Split Shorts
+> - [Gamers Run Club Singlet Rosfyre](https://planbnck.gg/products/singlet-rosefyre?variant=47457189331166)
+> - [KIPRUN 900 Unisex Trail Running Hydration Belt](https://www.decathlon.ph/p/kiprun-900-unisex-trail-running-hydration-belt-kiprun-8857773.html)
+
+<center><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16110524948" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script></center>
+
+
+---
 ### [Gamers Run Club](https://www.facebook.com/share/g/19x4Qp2QcA/?mibextid=K35XfP) - South (10Km Run) #CommunityRun 
 - [[Vermosa, Cavite]]
 - August 31, 2025
 ![[Attachments/GRC (South) - 10 Km Run.jpg]]
 
-> [!NOTE] Gear
+> [!NOTE]- Gear
 > - Adidas Adizero SL2 
 > - Adidas Adizero Split Shorts
 > - [Gamers Run Club Singlet Rosfyre](https://planbnck.gg/products/singlet-rosefyre?variant=47457189331166)
@@ -50,9 +64,3 @@ Running allow me to be active despite having a busy schedule juggling responsibi
 
 ---
 ## Upcoming Runs
-### Yakult 
-![[Attachments/Pasted image 20250908012041.png]]
-- SM MOA Complex, Pasay
-- October 12, 2025
-- [Registration](https://registration.yakult10miler.com/register)
-

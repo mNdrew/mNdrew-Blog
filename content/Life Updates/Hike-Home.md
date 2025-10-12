@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":null,"title":"⛰️ Trekking and Hiking","created":"2025-09-15T11:36:21+08:00","modified":"2025-09-15T14:14:51+08:00","published":null,"tags":["#Health","#Hobby","Hiking"],"cssclasses":null,"draft":false,"comments":false,"description":null,"date":"2025-09-15","date_created":null,"aliases":null}
+{"publish":true,"permalink":null,"title":"⛰️ Trekking and Hiking","created":"2025-09-15T11:36:21+08:00","modified":"2025-09-15T21:01:54+08:00","published":null,"tags":["#Health","#Hobby","Hiking"],"cssclasses":null,"draft":false,"comments":false,"description":null,"date":"2025-09-15","date_created":null,"aliases":null}
 ---
 
 I've always been fascinated by mountains. How these land formations take could take millions of years to form. For the longest time I just look at them when traveling to the province and always wonder when I start and thankfully one of my friends invited me to Sagada, Mountain Province where we went up [[Life Updates/Hike-Home#Marlboro Hill]]. 
@@ -9,6 +9,7 @@ I've always been fascinated by mountains. How these land formations take could t
 Sagada, Mountain Province | *March 31, 2025*
 #Trekking
 
+Why did we go 
 
 > [!NOTE]- Trail Info
 > - Meters Above Sea Level: 1724 masl
@@ -30,6 +31,7 @@ Calaca, Batangas | *Septmeber 12, 2025*
 > - Trail Type: out-and-back
 > - Sources:
 > 	- [AllTrails](https://www.alltrails.com/trail/philippines/cavite/mount-batulao-trail) 
+
 
 <center><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15803785478" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script></center>
 
