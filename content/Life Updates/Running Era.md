@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":null,"title":"🏃‍♂️ Running Era","created":"2025-09-07","modified":"2025-09-15T20:52:48+08:00","published":null,"tags":["#Health","#Hobby","Running"],"cssclasses":null,"draft":false,"comments":false,"description":null,"date":"2025-09-08 00:53:59","date_created":null,"aliases":null}
+{"publish":true,"permalink":null,"title":"🏃‍♂️ Running Era","created":"2025-09-07","modified":"2025-10-12T19:54:38+08:00","published":null,"tags":["#Health","#Hobby","Running"],"cssclasses":null,"draft":false,"comments":false,"description":null,"date":"2025-09-08 00:53:59","date_created":null,"aliases":null}
 ---
 
 # Why Run? 
@@ -13,16 +13,16 @@ Running allow me to be active despite having a busy schedule juggling responsibi
 	3. [x] Complete before 40 minutes
 	4. [ ] Complete before 30 minutes
 3. 10 Km Goal
-	1. [ ] Complete after 1 hour and 30 minutes
+	1. [x] Complete after 1 hour and 30 minutes [[Life Updates/Running Era#33rd Yakult 10-Miler (10 Km) FunRun Personal-Best\|1:27:32 via 33rd Yakult 10-Miler]]
 	2. [ ] Complete after 1 hour and 15 minutes 
-4. Run for 16 Km by [[December 2025]]
-5. Run for Half Marathon by [[May 2026]]
-6. Run for a Marathon [[May 2027]]
+4. [ ] Run for 16 Km by [[December 2025]]
+5. [ ] Run for Half Marathon by [[May 2026]]
+6. [ ] Run for a Marathon [[May 2027]]
 
 # Run List 
 
 ## Complete Runs
-### 33rd Yakult 10-Miler (10 Km) 
+### 33rd Yakult 10-Miler (10 Km) #FunRun #Personal-Best
 ![[Attachments/Yakult 33rd 10 Miler.png]]
 - SM MOA Complex, Pasay
 - October 12, 2025
@@ -57,10 +57,16 @@ Running allow me to be active despite having a busy schedule juggling responsibi
 > [!NOTE]- Gear
 > - Merrell Nova-3
 > - Samsung Galaxy Watch7
-> 
+
 
 
 <center><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14946444880" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script></center>
 
 ---
 ## Upcoming Runs
+### McDonald's Stripes Run 2025 - 5 Km
+![[Attachments/McDonald's Stripes Run 2025.png]]
+https://raceroster.com/events/2025/90116/mcdonalds-stripes-run-2025/page/race-mechanics
+### Athena Olympus Run (2026) - 10 Km
+![[Attachments/Olympus Athena Run.png]]
+https://rsrjevents.myruntime.com/register/athena-olympus-run-2026
