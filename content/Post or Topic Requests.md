@@ -13,7 +13,7 @@ Thank you!
 
 | Title                           | Area         | Progress        |
 | ------------------------------- | ------------ | --------------- |
-| [[Life Updates/Hobbies/Running/Running Era\|My Running Era]] | Life Updates | #WorkInProgress |
+| [[Life Updates/Running Era\|My Running Era]] | Life Updates | #WorkInProgress |
 
 # Current Requests
 | Title                | Area | Progress |

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":null,"title":"Android Gaming","description":"I really love how the advancements in emulation gave me the opportunity to play games I once just wish to play from retro titles to even recent releases.","draft":true,"created":"2025-09-08","modified":"2025-09-15T10:33:14+08:00","published":"2025-09-15T10:33:15.111+08:00","cssclasses":null,"comments":false,"tags":null,"date":null,"date_created":null,"aliases":null}
+{"publish":true,"permalink":null,"title":"Android Gaming","description":"I really love how the advancements in emulation gave me the opportunity to play games I once just wish to play from retro titles to even recent releases.","created":"2025-09-08","modified":"2025-09-09T21:44:47+08:00","published":"2025-11-03T02:13:46.530+08:00","cssclasses":null,"draft":false,"comments":false,"tags":null,"date":null,"date_created":null,"aliases":null}
 ---
 
 
@@ -14,8 +14,3 @@ I really love how the advancements in emulation gave me the opportunity to play 
 | Retroid Pocket 4 Pro | Android, Retro Games, PC Emulation |
 | Miyoo Mini+          | Retro Games                        |
 
-# Currently Playing 
-- Hollow Knight
-- Hollow Knight: Silksong 
-- Pokémon Unbound 
-- 
