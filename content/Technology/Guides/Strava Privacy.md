@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"strava-privacy-1125","title":"👀 Strava Privacy","comments":true,"created":"2025-11-03","modified":"2025-11-04T10:17:47+08:00","published":"2025-11-03","tags":["Health","Technology","Technology/Privacy"],"cssclasses":null,"draft":false,"description":null,"date":null,"date_created":null,"aliases":null}
+{"publish":true,"permalink":"strava-privacy-1125","title":"👀 Strava Privacy","comments":true,"created":"2025-11-03","modified":"2025-11-04T10:33:27+08:00","published":"2025-11-03","tags":["Health","Technology","Technology/Privacy"],"cssclasses":null,"draft":false,"description":null,"date":null,"date_created":null,"aliases":null}
 ---
 
 👋 Hi Everyone! I hope everyone in their running era is hitting their goals and kudos for showing up! 
@@ -32,7 +32,7 @@ If you are using Strava for tracking you’ve probably shared more than just you
 9. **Hidden Details**, here you can set specific parameters such as Start Time, Pace, Calories, Power, and Heart Rate from the activities you share to the feed. 
 	- ![[Attachments/13-StravaPrivacy.jpg|250]]
 10. **Aggregated Data Usage** and **Public Photos on Routes**
-	- ![[Attachments/14-StravaPrivacy.jpg|250]]![[Attachments/15-StravaPrivacy.jpg|250]]
+	- ![[Attachments/14-StravaPrivacy.jpg|250]] ![[Attachments/15-StravaPrivacy.jpg|250]]
 
 That's it. You have now configured your privacy settings in Strava! Always remember “**Privacy is an inherent human right, and a requirement for maintaining the human condition with dignity and respect**.” ― Bruce Schneier (2009)
 
