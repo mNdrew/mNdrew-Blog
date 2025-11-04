@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"strava-privacy-1125","title":"👀 Strava Privacy","comments":true,"created":"2025-11-03","modified":"2025-11-04T10:14:51+08:00","published":"2025-11-03","tags":["Health","Technology","Technology/Privacy"],"cssclasses":null,"draft":false,"description":null,"date":null,"date_created":null,"aliases":null}
+{"publish":true,"permalink":"strava-privacy-1125","title":"👀 Strava Privacy","comments":true,"created":"2025-11-03","modified":"2025-11-04T10:17:47+08:00","published":"2025-11-03","tags":["Health","Technology","Technology/Privacy"],"cssclasses":null,"draft":false,"description":null,"date":null,"date_created":null,"aliases":null}
 ---
 
 👋 Hi Everyone! I hope everyone in their running era is hitting their goals and kudos for showing up! 
