@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"tech-tutorial-github_login","title":"Login to GitHub via Terminal","description":"Quick Login guide for GitHub","comments":true,"created":"2025-09-07","modified":"2025-09-07T13:23:51.712+08:00","published":"2025-09-07","tags":["Technology","Tutorial"],"cssclasses":null,"draft":false,"date":"2025-09-07","date_created":"2025-09-07","aliases":null}
+{"publish":true,"permalink":"tech-tutorial-github_login","title":"🌐 Login to GitHub via Terminal","description":"Quick Login guide for GitHub","comments":true,"created":"2025-09-07","modified":"2025-11-04T10:09:05+08:00","published":"2025-09-07","tags":["Technology","Tutorial"],"cssclasses":null,"draft":false,"date":"2025-09-07","date_created":"2025-09-07","aliases":null}
 ---
 
 
