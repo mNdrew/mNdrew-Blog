@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"mndrew-blog-home-running","title":"🏃‍♂️ Running Era","created":"2025-09-07","modified":"2025-11-04T10:56:35+08:00","published":null,"tags":["#Health","#Hobby","Running"],"cssclasses":null,"draft":false,"comments":false,"description":null,"date":"2025-09-08 00:53:59","date_created":"2025-09-08","aliases":null}
+{"publish":true,"permalink":"mndrew-blog-home-running","title":"🏃‍♂️ Running Era","created":"2025-11-04T10:17:50+08:00","modified":"2025-11-04T10:59:56+08:00","published":null,"tags":["#Health","#Hobby","Running"],"cssclasses":null,"draft":false,"comments":false,"description":null,"date":"2025-09-08 00:53:59","date_created":"2025-09-08","aliases":null}
 ---
 
 
@@ -24,24 +24,37 @@ Running allow me to be active despite having a busy schedule juggling responsibi
 
 # Run List 
 
+> [!Warning] 🚧Work in Progress 🚧
+
+
+
 ## Complete Runs
 
 
-![[Attachments/Yakult 33rd 10 Miler.png|300]] ![[Attachments/33rd Yakult 10Km Map.png|300]]
+> [!Warning] 🚧Work in Progress 🚧
+
+# Photos
+![[Attachments/PNBB4 (3347).jpg|500]]
+# Route Map
+ ![[Attachments/33rd Yakult 10Km Map.png|300]]
 
 - SM MOA Complex, Pasay
 - October 12, 2025
 
-> [!Notes] Gear
-> - Adidas Adizero SL2 
-> - Adidas Adizero Split Shorts
-> - [Gamers Run Club Singlet Rosfyre](https://planbnck.gg/products/singlet-rosefyre?variant=47457189331166)
-> - [KIPRUN 900 Unisex Trail Running Hydration Belt](https://www.decathlon.ph/p/kiprun-900-unisex-trail-running-hydration-belt-kiprun-8857773.html)
+# Gear Used
+- Adidas Adizero SL2 
+- Adidas Adizero Split Shorts
+- [Gamers Run Club Singlet Rosfyre](https://planbnck.gg/products/singlet-rosefyre?variant=47457189331166)
+- [KIPRUN 900 Unisex Trail Running Hydration Belt](https://www.decathlon.ph/p/kiprun-900-unisex-trail-running-hydration-belt-kiprun-8857773.html)
 
 <center><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16110524948" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script></center>
 
 
 ---
+
+
+> [!Warning] 🚧Work in Progress 🚧
+
 
 ### [Gamers Run Club](https://www.facebook.com/share/g/19x4Qp2QcA/?mibextid=K35XfP) - South (10Km Run) #CommunityRun 
 - [[Vermosa, Cavite]]
@@ -56,6 +69,9 @@ Running allow me to be active despite having a busy schedule juggling responsibi
 <center><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15642410874" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script></center>
 
 ---
+
+
+> [!Warning] 🚧Work in Progress 🚧
 
 # The Green Run 2025
 - [[Vermosa, Cavite]]
