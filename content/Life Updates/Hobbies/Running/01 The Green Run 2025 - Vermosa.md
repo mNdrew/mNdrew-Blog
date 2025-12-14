@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":null,"title":"Vermosa: The Green Run 2025 (5Km)","created":"2025-11-04T10:17:50+08:00","modified":"2025-12-14T22:17:05+08:00","published":null,"tags":["Health","FunRun","Personal-Best"],"cssclasses":null,"draft":false,"comments":false,"description":null,"date":"2025-06-29","date_created":null,"aliases":null}
+{"publish":true,"permalink":null,"title":"Vermosa: The Green Run 2025 (5Km)","description":"This year, I started to take running more seriously and last 29th of June I joined The Green Run 2025 in [Vermosa, Cavite](https://www.vermosa.ph/). It was my first fun run. I knew the route because this is one of my favorite routes.","created":"2025-11-04T10:17:50+08:00","modified":"2025-12-14T22:23:23+08:00","published":null,"tags":["Health","FunRun","Personal-Best"],"cssclasses":null,"draft":false,"comments":false,"date":"2025-06-29","date_created":null,"aliases":null}
 ---
 
 
